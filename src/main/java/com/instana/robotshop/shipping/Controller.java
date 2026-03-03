@@ -94,7 +94,7 @@ public class Controller {
 
         List<City> cities = cityrepo.match(code, text);
         /*
-         * This is a dirty hack to limit the result size
+         * This is a dirtys hack to limit the result size
          * I'm sure there is a more spring boot way to do this
          * TODO - neater
          */

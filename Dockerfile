@@ -19,6 +19,7 @@ COPY  --from=build --chown=roboshop:roboshop  /opt/server/shipping.jar .
 USER roboshop
 CMD [ "java","-jar","shipping.jar" ]
 
+# old
 # FROM maven:3.9.11
 # EXPOSE 8080
 # WORKDIR /opt/server

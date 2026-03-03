@@ -25,7 +25,7 @@ public class CartHelper {
         this.baseUrl = baseUrl;
     }
 
-    // TODO - Remove deprecated calls
+    // TODO - Remove the deprecated calls
     public String addToCart(String id, String data) {
         logger.info("add shipping to cart {}", id);
         StringBuilder buffer = new StringBuilder();
