@@ -7,7 +7,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 /*
-* Bean for Code
+* Bean for Codes
 */
 @Entity
 @Table(name = "codes")

@@ -16,7 +16,7 @@ public class Calculator {
     }
 
     /**
-     * Calculate the distance between this location and the target location.
+     * Calculate is the distance between this location and the target location.
      * Use decimal lat/long degrees
      * Formula is Haversine https://www.movable-type.co.uk/scripts/latlong.html
      **/

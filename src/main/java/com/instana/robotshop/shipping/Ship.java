@@ -1,7 +1,7 @@
 package com.instana.robotshop.shipping;
 
 /**
- * Bean to hold shipping information
+ * Bean to hold shipping informations
  **/
 public class Ship {
     private long distance;

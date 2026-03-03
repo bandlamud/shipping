@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Column;
 
 /*
-* Bean for City
+* Bean for Citys
 */
 @Entity
 @Table(name = "cities")
